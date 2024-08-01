@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @cccaimingjian
-- My college major was computer science and worked as a PHP developer
+- My college major was computer science
+- Right now I'm using PHP and C# for my work!
 - 👀 I’m interested in toB Project.
 - 🌱 I’m currently learning data analysis.
 - Looking forward to connecting with you!
